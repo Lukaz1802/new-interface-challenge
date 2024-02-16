@@ -1,0 +1,7 @@
+@media (max-width: 768px) { 
+    .buttonGroup{
+    margin-left: 0px !important;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 20px;
+}}
